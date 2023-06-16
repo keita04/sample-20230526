@@ -104,6 +104,11 @@ img {
         background-color: #736e62;
         padding-top: 30px;
         padding-bottom: 50px;
+        display: none;
+    }
+
+    .header-site-menu.is-show {
+        display: block;
     }
 
     .main {
